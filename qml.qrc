@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SimpleSlider.qml</file>
+        <file>PianoRollNote.qml</file>
+        <file>PianoRoll.qml</file>
+        <file>Rectangle3D.qml</file>
+        <file>Knob.qml</file>
+        <file>InteractiveGraph.qml</file>
+        <file>PianoRollVerticalHeader.qml</file>
+        <file>PianoRollHorizontalHeader.qml</file>
+        <file>HSVColorPicker.qml</file>
+        <file>NumberBox.qml</file>
+        <file>MouseAreaWarp.qml</file>
+        <file>Slider1.qml</file>
+        <file>ProgressSpinner.qml</file>
+        <file>BreakpointEnvelopeEditor.qml</file>
+        <file>BreakpointEnvelopeSection.qml</file>
+        <file>DemoMouseAreaWarp.qml</file>
+    </qresource>
+</RCC>
